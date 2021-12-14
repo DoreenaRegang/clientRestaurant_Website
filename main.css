@@ -1,0 +1,207 @@
+body{
+
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+ul{
+    
+    display: block;
+
+}
+
+#logo{
+
+    display: block;
+
+    margin: 0 auto;
+
+    width: 300px;
+
+    height: 250;
+
+}
+
+#resname{
+    color: rgb(255, 123, 0);
+
+    text-align: center;
+
+    font-size: 50px;
+}
+
+
+
+a:link{
+
+    color: rgb(30, 255, 0);
+
+}
+
+
+
+a:hover{
+
+    color: rgb(30, 255, 0);
+
+}
+
+
+
+a:visited{
+
+    color: rgb(30, 255, 0);
+
+}
+
+
+
+.main-nav{
+
+    font-size: 25px;
+
+    text-align: center;
+
+}
+
+.main-nav li{
+
+    padding: 15px;
+    float: left;
+
+}
+
+.main-nav li{
+    list-style: none;
+}
+
+.main-nav a{
+
+    text-decoration: none;
+    text-transform: uppercase;
+    }
+
+
+    .clearfix::after {
+
+        content: "";
+    
+        clear: both;
+    
+        display: table;
+
+        float: left;
+
+        color: yellow;
+    
+      }
+
+      .container{
+        background:rgb(15,15,15,0.7);
+
+        padding: 30px;
+  
+    }
+   
+.menu{
+
+    text-decoration: justify;
+        
+    font-family: 'Montagu Slab', serif;
+
+    }
+
+    .menu h1{
+        color: aliceblue;
+
+    }
+
+    .menu  h2{
+
+        color: rgb(252, 235, 0);
+
+    }
+
+    .menu p{
+        text-align: center;
+
+        color: rgb(252, 252, 252);
+
+        text-decoration: justify;
+
+        font-size: 20px;
+
+    }
+
+    .table{
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .homevideo{
+        text-align: center;
+    }
+
+.about h1{
+    color: aliceblue;
+    text-align: center;
+}
+.about h2{
+    color: yellow;
+}
+
+.about p{
+
+    color: rgb(252, 252, 252);
+
+    text-decoration: justify;
+
+    font-size: 20px;
+}
+.about1{
+    color: rgb(252, 252, 252);
+
+    text-decoration: justify;
+
+    font-size: 20px;
+}
+
+.hours h1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 50px;
+}
+.hours h2{
+    color: yellow;
+}
+.hours h3{
+    color: yellow;
+    text-align: center;
+    font-size: 30px;
+}
+.hours p{
+    
+    color: rgb(252, 252, 252);
+
+    text-decoration: justify;
+
+    font-size: 20px;
+}
+
+.mapouter{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lastly p{
+    color: rgb(252, 252, 252);
+
+    text-decoration: justify;
+
+    font-size: 20px;
+}
